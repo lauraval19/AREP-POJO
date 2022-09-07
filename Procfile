@@ -1,0 +1,1 @@
+web: java -cp target/classes edu.eci.arem.springboot.HttpServer edu.eci.arem.springboot.WebServices
